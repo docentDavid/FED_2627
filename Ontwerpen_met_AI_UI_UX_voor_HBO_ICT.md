@@ -260,7 +260,7 @@ Het wordt belangrijker dat je kunt uitleggen:
 
 Je hoeft AI niet te vermijden. Je moet vooral leren hoe je het verantwoord en kritisch gebruikt.
 
-## Aan de slag: een kleine ontwerpuitdaging
+## Aan de slag: een kleine ontwerpuitdaging - (Optioneel)
 
 Ontwerp een mobiele interface waarmee studenten een studieplek kunnen reserveren.
 
